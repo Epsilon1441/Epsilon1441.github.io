@@ -1,0 +1,11 @@
+.content {
+    display: flex; /* Utiliza flexbox para alinear los elementos */
+      
+}
+
+.imagen-derecha {
+    
+    margin-left: 20px; /* Espacio entre la imagen y el texto */
+    width: 100px; /* Ajusta el tamaño de la imagen según sea necesario */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
